@@ -125,8 +125,8 @@ const App = () => {
   return (
     <div className="App">
       <canvas id="canvas" ref={canvasRef}></canvas>
-      <a className="youtube-link" href="https://youtu.be/S8V2bmcXRaE" target="_blank" rel="noopener noreferrer">
-        https://youtu.be/S8V2bmcXRaE
+      <a className="youtube-link" href="#" target="_blank" rel="noopener noreferrer">
+        AetherZen
       </a>
     </div>
   );
